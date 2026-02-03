@@ -68,14 +68,14 @@ P P P
 
 | 锻造模板 | 基底 (Base) | 材料 (Addition) | ➡️ | 结果 |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://minecraft.wiki/images/Netherite_Upgrade_Smithing_Template_JE2_BE2.png" width="32"> | 🗡️ (剑坯) | 🌟 (下界之星) | ➡️ | **🟣 裂缝之刃** |
+| 📜 (锻造模板) | 🗡️ (剑坯) | 🌟 (下界之星) | ➡️ | **🟣 裂缝之刃** |
 
 ---
 
 ## 💻 技术细节 (Technical)
 
 *   **Loader**: NeoForge
-*   **Game Version**: Minecraft 1.21+ (Based on code inspection)
+*   **Game Version**: Minecraft 1.26.1 (Experimental/Future)
 *   **Author**: Gemini AI (Code & Logic) & User (Prompts)
 
 ---
