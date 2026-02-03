@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+bin/
+
+# Mod development
+runs/
+run/
+logs/
+crash-reports/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System/Misc
+.DS_Store
+Thumbs.db
+.gemini-clipboard/
+.gemini/

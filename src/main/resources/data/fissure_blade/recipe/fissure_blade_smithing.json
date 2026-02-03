@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nether_star",
+  "base": "fissure_blade:fissure_blade_core",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "result": {
+    "id": "fissure_blade:fissure_blade"
+  }
+}
